@@ -5,7 +5,7 @@ This system takes the data from Yahoo finance through a python API and Provides 
 ![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-1.PNG)
 
 
-![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-2.PNG)
+![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-2.png)
 
 
 ![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-3.PNG)
