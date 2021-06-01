@@ -8,17 +8,17 @@ This system takes the data from Yahoo finance through a python API and Provides 
 ![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-2.png)
 
 
-![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-3.PNG)
+![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-3.png)
 
 
-![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-6.PNG)
+![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-6.png)
 
 
-![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-7.PNG)
+![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-7.png)
 
 
-![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-8.PNG)
+![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-8.png)
 
 
-![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-9.PNG)
+![](https://github.com/sneha-almeida/Comparison-of-Different-Methods-of-Stock-Market-Prediction-With-Graphical-Visualizations-/blob/main/ss-9.png)
 
